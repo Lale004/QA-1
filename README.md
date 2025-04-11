@@ -20,3 +20,11 @@ Testing nəyə lazımdır
 SDLC VƏ STLC
 SDLC-Software development life cycle
 STLC-Software testing life cycle
+
+
+
+Verification	"Biz məhsulu düzgün hazırlamışıqmı?"	Developer, Tester    
+Validation	"Biz düzgün məhsulu hazırlamışıqmı?"	İstifadəçi, Analitik
+
+
+
